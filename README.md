@@ -1,5 +1,9 @@
 # CS3560 - Example Project
 
+##This repo is being used in student git pull requests
+Garrett Drumm, p100860895
+
+
 Example project that uses Doxygen, Makefile, Catch2, Travis CI.
 
 This is a simple project that contain some of the tools used in the class. For example,
